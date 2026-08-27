@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="ClienteManager.Application/ClienteManager.Application.csproj" />
+  <Project Path="ClienteManager.Domain/ClienteManager.Domain.csproj" />
+  <Project Path="ClienteManager.Infrastructure/ClienteManager.Infrastructure.csproj" />
+  <Project Path="ClienteManager.Presentation/ClienteManager.Presentation.csproj" />
 </Solution>
